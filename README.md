@@ -4,7 +4,7 @@ Live, re-checked public proxies from **[proxio.io](https://proxio.io)**, mirrore
 Every entry answered a real protocol check within the last 7 days; dead proxies drop off automatically.
 
 <!-- stats:start -->
-Last update: **2026-11-26 05:48 UTC**
+Last update: **2026-11-26 15:56 UTC**
 
 | file | live proxies |
 |---|---:|
